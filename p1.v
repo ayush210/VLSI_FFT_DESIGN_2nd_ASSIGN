@@ -30,7 +30,6 @@ multiply m4(bi,wr,c4);
 		 xi = d3 + ai;
 		 yi = d4 + ai;
 		end
-//		end
 initial begin
 $monitor("%d %d %d %d",xr,yr,xi,yi);
 end
